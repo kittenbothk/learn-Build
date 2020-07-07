@@ -11,7 +11,7 @@ Welcome to learn-Build's documentation!
    :caption: Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: hello world
    :glob:
 
